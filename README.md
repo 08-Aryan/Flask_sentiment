@@ -19,7 +19,7 @@ A simple, production-ready sentiment analysis API built with Flask. This project
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ZaRobot10/Flasking_the_sentiment.git
+https://github.com/08-Aryan/Flask_sentiment.git
 cd Flasking_the_sentiment
 ```
 
